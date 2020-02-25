@@ -17,6 +17,24 @@ const BackgroundImage = styled.img`
   width: 230px;
   height: 200px;
   margin: 20px 60px;
+  @media (min-width: 768px) {
+    width: 230px;
+    margin: 162px 61px;
+  }
+  @media (min-width: 600px) {
+    width: 230px;
+    margin: 180px 61px;
+  }
+  @media (min-width: 320px) {
+    width: 350px;
+    height: 200px;
+    margin: 17px 30px;
+  }
+  @media (min-width: 480px) {
+    width: 350px;
+    height: 200px;
+    margin: 17px 30px;
+  }
 `;
 
 const ViewTop = styled.div`
@@ -31,6 +49,16 @@ const ViewTop = styled.div`
   @media (min-width: 600px) {
     width: 230px;
     margin: 180px 61px;
+  }
+  @media (min-width: 480px) {
+    width: 351px;
+    height: 45px;
+    margin: 172px 30px;
+  }
+  @media (min-width: 320px) {
+    width: 351px;
+    height: 45px;
+    margin: 172px 30px;
   }
 `;
 
