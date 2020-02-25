@@ -4,17 +4,6 @@
 
 Main aim is to create simple react card component.
 
-### Installation
-
-What things you need to install the software and how to setup your system
-
-```
-* Install
-	Node JS Latest version 7.x
-    Visual studio code
-
-```
-
 ### Run this application
 
 Before start using install packages
