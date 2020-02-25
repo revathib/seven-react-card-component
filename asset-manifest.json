@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.5830937b.chunk.js",
-    "main.js.map": "/static/js/main.5830937b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1404f455.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1404f455.js.map",
-    "static/js/2.54da663e.chunk.js": "/static/js/2.54da663e.chunk.js",
-    "static/js/2.54da663e.chunk.js.map": "/static/js/2.54da663e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f0b8aafc90c4039a0d8674fe74704549.js": "/precache-manifest.f0b8aafc90c4039a0d8674fe74704549.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.54da663e.chunk.js.LICENSE.txt": "/static/js/2.54da663e.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/static/media/logo.2a3f011a.png",
-    "static/media/tile.jpg": "/static/media/tile.25b4e634.jpg"
+    "main.css": "/seven-react-card-component/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/seven-react-card-component/static/js/main.d3b1d5eb.chunk.js",
+    "main.js.map": "/seven-react-card-component/static/js/main.d3b1d5eb.chunk.js.map",
+    "runtime-main.js": "/seven-react-card-component/static/js/runtime-main.412cb59e.js",
+    "runtime-main.js.map": "/seven-react-card-component/static/js/runtime-main.412cb59e.js.map",
+    "static/js/2.01067358.chunk.js": "/seven-react-card-component/static/js/2.01067358.chunk.js",
+    "static/js/2.01067358.chunk.js.map": "/seven-react-card-component/static/js/2.01067358.chunk.js.map",
+    "index.html": "/seven-react-card-component/index.html",
+    "precache-manifest.88a2f436bc41cbfe41d2f10311ee4178.js": "/seven-react-card-component/precache-manifest.88a2f436bc41cbfe41d2f10311ee4178.js",
+    "service-worker.js": "/seven-react-card-component/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/seven-react-card-component/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.01067358.chunk.js.LICENSE.txt": "/seven-react-card-component/static/js/2.01067358.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/seven-react-card-component/static/media/logo.2a3f011a.png",
+    "static/media/tile.jpg": "/seven-react-card-component/static/media/tile.25b4e634.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1404f455.js",
-    "static/js/2.54da663e.chunk.js",
+    "static/js/runtime-main.412cb59e.js",
+    "static/js/2.01067358.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5830937b.chunk.js"
+    "static/js/main.d3b1d5eb.chunk.js"
   ]
 }
