@@ -38,7 +38,8 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Card image={title} onHoverImage={onHoverImage} text="Home and Away"></Card>
+      <Card backgroundImage={title} onTopImage={onHoverImage} text="Home and Away"></Card>
+      {/* <Card backgroundImage={title} onTopImage={onHoverImage} text="Home and Away"></Card> */}
     </div>
   );
 }
