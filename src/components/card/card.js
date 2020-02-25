@@ -1,17 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
-import title from '../../assets/img/tile.jpg';
 
 const Wrapper = styled.div`
   flex: 1;
   align-items: center;
+  padding: 1%;
 `;
 const ViewBottom = styled.div`
   position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
   width: 230px;
   height: 200px;
 `;
@@ -20,13 +16,13 @@ const BackgroundImage = styled.img`
   flex-direction: column;
   width: 230px;
   height: 200px;
-  margin: 60px;
+  margin: 20px 60px;
 `;
 
 const ViewTop = styled.div`
   opacity: 0.5;
   background-color: black;
-  width: 230px;
+  width: 231px;
   margin: 146px 61px;
   @media (min-width: 768px) {
     width: 230px;
@@ -34,7 +30,7 @@ const ViewTop = styled.div`
   }
   @media (min-width: 600px) {
     width: 230px;
-    margin: 162px 61px;
+    margin: 180px 61px;
   }
 `;
 
