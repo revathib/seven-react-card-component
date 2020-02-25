@@ -2,11 +2,10 @@ import React from 'react';
 import { createGlobalStyle } from 'styled-components';
 
 //local imports
-import './App.css';
 import Card from '../src/components/card/card';
 import Header from '../src/components/header/header';
 import title from '../src/assets/img/tile.jpg';
-import onHoverImage from '../src/assets/img/logo.png';
+import onTopImage from '../src/assets/img/logo.png';
 
 createGlobalStyle`
   html {
@@ -38,8 +37,8 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Card backgroundImage={title} onTopImage={onHoverImage} text="Home and Away"></Card>
-      {/* <Card backgroundImage={title} onTopImage={onHoverImage} text="Home and Away"></Card> */}
+      <Card backgroundImage={title} onTopImage={onTopImage} text="Home and Away"></Card>
+      {/* <Card backgroundImage={title} onTopImage={onTopImage} text="Home and Away"></Card> */}
     </div>
   );
 }
